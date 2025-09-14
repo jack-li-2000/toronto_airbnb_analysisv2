@@ -10,6 +10,7 @@ This project is a revised and expanded analysis of Airbnb listings in Toronto, O
 * Interactive Tableau dashboards for exploration
 
 Data was sourced from https://insideairbnb.com/toronto/ for November 2022, March 2023, June 2023, and September 2023.
+
 🎯 Objective & Hypothesis
 
 Objective: To explore trends in Toronto’s Airbnb market over time, identify factors influencing listing prices, and assess the potential impact of seasonality and neighbourhood characteristics.
